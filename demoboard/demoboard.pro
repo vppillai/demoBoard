@@ -1,4 +1,4 @@
-update=19-Aug-15 6:27:04 PM
+update=29-Aug-15 4:33:48 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=contrib
 LibName30=valves
 LibName31=Libraries/serial_interface
 LibName32=Libraries/esp-07
+LibName33=Libraries/WS2812B

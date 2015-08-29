@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name ESP-07)(type KiCad)(uri "$(KIPRJMOD)\\Modules\\ESP-07.pretty")(options "")(descr "ESP8266 ESP-07 module footprint"))
+  (lib (name WS2812b)(type KiCad)(uri "$(KIPRJMOD)\\Modules\\WS2812b.pretty")(options "")(descr ""))
 )
