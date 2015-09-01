@@ -145,8 +145,8 @@ U 1 1 55D365CC
 P 10250 4000
 F 0 "P1" H 10575 3875 50  0000 C CNN
 F 1 "USB_OTG" H 10250 4200 50  0000 C CNN
-F 2 "Connect:USB_Micro-B" V 10200 3900 60  0001 C CNN
-F 3 "" V 10200 3900 60  0000 C CNN
+F 2 "MolexMicroUSB:molex microUSB" V 10200 3900 60  0001 C CNN
+F 3 "http://www.molex.com/pdm_docs/sd/473460001_sd.pdf" V 10200 3900 60  0001 C CNN
 	1    10250 4000
 	0    1    1    0   
 $EndComp
