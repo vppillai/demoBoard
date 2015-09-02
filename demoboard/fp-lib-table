@@ -2,4 +2,5 @@
   (lib (name ESP-07)(type KiCad)(uri "$(KIPRJMOD)\\Modules\\ESP-07.pretty")(options "")(descr "ESP8266 ESP-07 module footprint"))
   (lib (name WS2812b)(type KiCad)(uri "$(KIPRJMOD)\\Modules\\WS2812b.pretty")(options "")(descr ""))
   (lib (name MolexMicroUSB)(type KiCad)(uri "$(KIPRJMOD)\\Modules\\MolexMicroUSB.pretty")(options "")(descr ""))
+  (lib (name Modules)(type KiCad)(uri "$(KIPRJMOD)\\Modules")(options "")(descr ""))
 )

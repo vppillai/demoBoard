@@ -1,4 +1,4 @@
-update=29-Aug-15 4:33:48 PM
+update=02-Sep-15 5:17:39 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName30=valves
 LibName31=Libraries/serial_interface
 LibName32=Libraries/esp-07
 LibName33=Libraries/WS2812B
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

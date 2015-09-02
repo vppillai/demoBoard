@@ -1,7 +1,7 @@
 (kicad_pcb (version 4) (host pcbnew "(2015-08-30 BZR 6134, Git 4e94d52)-product")
 
   (general
-    (links 89)
+    (links 0)
     (no_connects 0)
     (area 138.104999 75.744999 176.355001 126.695001)
     (thickness 1.6)
@@ -25,7 +25,7 @@
     (34 B.Paste user)
     (35 F.Paste user)
     (36 B.SilkS user)
-    (37 F.SilkS user hide)
+    (37 F.SilkS user)
     (38 B.Mask user)
     (39 F.Mask user)
     (40 Dwgs.User user)
@@ -66,7 +66,7 @@
     (pad_drill 0)
     (pad_to_mask_clearance 0.2)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFEBD5F)
+    (visible_elements 7FFEFFFF)
     (pcbplotparams
       (layerselection 0x010f0_80000001)
       (usegerberextensions true)

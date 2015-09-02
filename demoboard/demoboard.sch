@@ -39,7 +39,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "esp8266 WiFi Demo board "
-Date "2015-08-18"
+Date "2015-09-02"
 Rev "0.1"
 Comp ""
 Comment1 ""
