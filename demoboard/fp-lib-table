@@ -3,4 +3,5 @@
   (lib (name WS2812b)(type KiCad)(uri "$(KIPRJMOD)\\Modules\\WS2812b.pretty")(options "")(descr ""))
   (lib (name MolexMicroUSB)(type KiCad)(uri "$(KIPRJMOD)\\Modules\\MolexMicroUSB.pretty")(options "")(descr ""))
   (lib (name Modules)(type KiCad)(uri "$(KIPRJMOD)\\Modules")(options "")(descr ""))
+  (lib (name thCap)(type KiCad)(uri "$(KIPRJMOD)\\Libraries\\thCap.pretty")(options "")(descr ""))
 )
